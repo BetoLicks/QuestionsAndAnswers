@@ -1,4 +1,4 @@
-# LOGIN SESSION
+# QUESTIONS AND ANSWERS
 
 Sistema de perguntas e respostas em Node.js com acesso a banco de dados.
 
